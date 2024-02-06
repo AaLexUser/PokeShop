@@ -1,7 +1,7 @@
 [submodule "frontend"]
-	path = frontend,
-    url = git@github.com:aleksei-edu/ISDB-CW-ST-4-FRONTEND-TS.git
+	path = frontend
+	url = git@github.com:aleksei-edu/ISDB-CW-ST-4-FRONTEND-TS.git
 [submodule "backend"]
-    path = backend,
-    url = git@github.com:aleksei-edu/ISDB-CW-ST-4-BACKEND.git
+	path = backend
+	url = git@github.com:aleksei-edu/ISDB-CW-ST-4-BACKEND.git
     
